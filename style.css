@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background: rgb(211, 167, 211);
+}
+
+.heading {
+    width: 45%;
+    font-size: 22px;
+}
+
+.listofobjects {
+    color: rgb(116, 85, 114);
+}
